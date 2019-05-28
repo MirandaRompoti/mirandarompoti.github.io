@@ -16,6 +16,7 @@ style: minimal             # use a simpler style inspired by the minima theme
 
 navigation:                  # (optional) site navigation in the header
 - about.md
+- authors.md
 #  - index.html
 #  - README.md
 #  - title: "https://"       # linking external sites is also supported
