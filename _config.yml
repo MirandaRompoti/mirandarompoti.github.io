@@ -26,6 +26,8 @@ icons:                       # (optional) icons in the header, see http://fontaw
   github: "https://github.com/niklasbuschmann/contrast"
   rss: "/contrast/feed.xml"
   twitter: "https://twitter.com/testmiller33?lang=en"
+  linkedin: "https://www.linkedin.com/in/dummy-profile-25b009120/?originalSubdomain=in"
+  
 
 # Pagination
 show_excerpts: false         # preview articles on the home page
